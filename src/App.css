@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+@import '~antd/dist/antd.css';
 
 @keyframes App-logo-spin {
   from {
@@ -11,3 +12,5 @@
     transform: rotate(360deg);
   }
 }
+
+
